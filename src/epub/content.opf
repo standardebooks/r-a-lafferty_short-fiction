@@ -98,16 +98,16 @@
 		<dc:source>https://www.gutenberg.org/ebooks/61128</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/51668</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/23161</dc:source>
-		<dc:source>https://archive.org/details/1960-09_IF/
-		<dc:source>https://archive.org/details/1960-11_IF/</dc:source>
-		<dc:source>https://archive.org/details/1961-01_IF/</dc:source>
-		<dc:source>https://archive.org/details/1961-03_IF/</dc:source>
-		<dc:source>https://archive.org/details/Galaxy_v19n04_1961-04/</dc:source>
-		<dc:source>https://archive.org/details/Galaxy_v19n05_1961-06_modified/</dc:source>
-		<dc:source>https://archive.org/details/Galaxy_v19n06_1961-08/</dc:source>
-		<dc:source>https://archive.org/details/1962-03_IF_modified/</dc:source>
-		<dc:source>https://archive.org/details/Galaxy_v20n05_1962-06/</dc:source>
-		<dc:source>https://archive.org/details/Galaxy_v21n02_1962.12/</dc:source>
+		<dc:source>https://archive.org/details/1960-09_IF</dc:source>
+		<dc:source>https://archive.org/details/1960-11_IF</dc:source>
+		<dc:source>https://archive.org/details/1961-01_IF</dc:source>
+		<dc:source>https://archive.org/details/1961-03_IF</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n04_1961-04</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n05_1961-06_modified</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n06_1961-08</dc:source>
+		<dc:source>https://archive.org/details/1962-03_IF_modified</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v20n05_1962-06</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v21n02_1962.12</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
