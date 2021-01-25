@@ -64,7 +64,7 @@
 		<meta property="term" refines="#subject-8">unknown</meta>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">unknown</meta>
-		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">unknown</meta>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">unknown</meta>
@@ -127,21 +127,21 @@
 		<dc:contributor id="transcriber-1">Robert Cicconetti</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Cicconetti, Robert</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">Irma Spehar</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Spehar, Irma</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Meehan, Mary</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">V. L. Simpson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Simpson, V. L.</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-2">Irma Spehar</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Spehar, Irma</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Weeks, Greg</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">V. L. Simpson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Simpson, V. L.</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-6">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
