@@ -29,28 +29,93 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Time -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Short stories</dc:subject>
+		<dc:subject id="subject-4">Infertility -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Detective and mystery stories</dc:subject>
+		<dc:subject id="subject-6">Police -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Human-alien encounters -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Etiquette -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Life on other planets -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Outer space -- Exploration -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Florida -- Fiction</dc:subject>
+		<dc:subject id="subject-12">Brothers and sisters -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Children -- Fiction</dc:subject>
+		<dc:subject id="subject-14">Inventions -- Fiction</dc:subject>
+		<dc:subject id="subject-15">Dreams -- Fiction</dc:subject>
+		<dc:subject id="subject-16">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-17">Demographic surveys -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="term" refines="#subject-2">sh2008112902</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85121813</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85037260</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">unknown</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">unknown</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">unknown</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-10">unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">unknown</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">unknown</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">sh85023446</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">unknown</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">unknown</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh85047114</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">unknown</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/31663</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/60940</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/60955</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/61007</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51603</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51774</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51596</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/61128</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51668</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23161</dc:source>
+		<dc:source>https://archive.org/details/1960-09_IF/
+		<dc:source>https://archive.org/details/1960-11_IF/</dc:source>
+		<dc:source>https://archive.org/details/1961-01_IF/</dc:source>
+		<dc:source>https://archive.org/details/1961-03_IF/</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n04_1961-04/</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n05_1961-06_modified/</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n06_1961-08/</dc:source>
+		<dc:source>https://archive.org/details/1962-03_IF_modified/</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v20n05_1962-06/</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v21n02_1962.12/</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/R._A._Lafferty#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-a-lafferty_short-fiction</meta>
 		<dc:creator id="author">R. A. Lafferty</dc:creator>
 		<meta property="file-as" refines="#author">Lafferty, R. A.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Raphael Aloysius Lafferty</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._A._Lafferty</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79145563</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -59,13 +124,27 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Robert Cicconetti</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Cicconetti, Robert</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-1">Irma Spehar</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Spehar, Irma</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-1">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-1">V. L. Simpson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Simpson, V. L.</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
