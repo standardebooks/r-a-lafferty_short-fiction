@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-weirdest-world.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Match is a full book title, including the ending question mark.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
