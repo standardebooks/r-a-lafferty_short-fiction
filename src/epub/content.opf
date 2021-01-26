@@ -110,7 +110,6 @@
 		<dc:source>https://archive.org/details/1962-03_IF_modified</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v20n05_1962-06</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v21n02_1962.12</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/R._A._Lafferty#Short_stories</meta>
