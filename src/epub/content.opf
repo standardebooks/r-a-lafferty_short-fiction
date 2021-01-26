@@ -83,9 +83,11 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Though often packed into the genre of science fiction, &lt;a href="https://standardebooks.org/ebooks/r-a-lafferty"&gt;R. A. Lafferty&lt;/a&gt; might fit better into a category of the bizzare. Through a blend of folk storytelling, American tall tales, science fiction, and fantasy, infused with his devout Catholicism, he has created an inimitable, genre-bending, sui generis style.&lt;/p&gt;
+			&lt;p&gt;Lafferty has received many Hugo and Nebula Award nominations and won the Best Short Story Hugo in 1973.&lt;/p&gt;
+			&lt;p&gt;Collected here are a number of his short stories originally published in science fiction pulp magazines.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31663</dc:source>
