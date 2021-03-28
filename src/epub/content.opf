@@ -118,12 +118,12 @@
 		<meta property="file-as" refines="#author">Lafferty, R. A.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Raphael Aloysius Lafferty</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._A._Lafferty</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79145563</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79145563</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Marc Chagall</dc:contributor>
 		<meta property="file-as" refines="#artist">Chagall, Marc</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Marc_Chagall</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79043105</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043105</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Robert Cicconetti</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Cicconetti, Robert</meta>
