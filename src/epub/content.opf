@@ -82,6 +82,7 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Though often packed into the genre of science fiction, &lt;a href="https://standardebooks.org/ebooks/r-a-lafferty"&gt;R. A. Lafferty&lt;/a&gt; might fit better into a category of the bizarre. Through a blend of folk storytelling, American tall tales, science fiction, and fantasy, all infused with his devout Catholicism, he has created an inimitable, genre-bending, sui generis style.&lt;/p&gt;
