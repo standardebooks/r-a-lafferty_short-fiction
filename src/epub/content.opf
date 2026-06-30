@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/r-a-lafferty/short-fiction</dc:identifier>
 		<dc:date>2021-01-27T00:30:30Z</dc:date>
 		<meta property="dcterms:modified">2021-01-27T00:30:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -80,10 +81,10 @@
 		<meta property="term" refines="#subject-16">sh85047114</meta>
 		<meta property="authority" refines="#subject-17">LCSH</meta>
 		<meta property="term" refines="#subject-17">Unknown</meta>
-		<meta property="se:subject">Fantasy</meta>
-		<meta property="se:subject">Science Fiction</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta property="se:is-a-collection">true</meta>
+		<meta property="schema:genre">Fantasy</meta>
+		<meta property="schema:genre">Science Fiction</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:description id="description">A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Though often packed into the genre of science fiction, &lt;a href="https://standardebooks.org/ebooks/r-a-lafferty"&gt;R. A. Lafferty&lt;/a&gt; might fit better into a category of the bizarre. Through a blend of folk storytelling, American tall tales, science fiction, and fantasy, all infused with his devout Catholicism, he has created an inimitable, genre-bending, sui generis style.&lt;/p&gt;
@@ -111,20 +112,22 @@
 		<dc:source>https://archive.org/details/1962-03_IF_modified</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v20n05_1962-06</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v21n02_1962.12</dc:source>
-		<meta property="se:word-count">38386</meta>
-		<meta property="se:reading-ease.flesch">76.32</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/R._A._Lafferty#Short_stories</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-a-lafferty_short-fiction</meta>
+		<meta property="schema:wordCount">38386</meta>
+		<meta property="schema:educationalLevel">76.32</meta>
+		<link href="https://en.wikipedia.org/wiki/R._A._Lafferty#Short_stories" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/r-a-lafferty_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">R. A. Lafferty</dc:creator>
 		<meta property="file-as" refines="#author">Lafferty, R. A.</meta>
-		<meta property="se:name.person.full-name" refines="#author">Raphael Aloysius Lafferty</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._A._Lafferty</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79145563</meta>
+		<meta property="schema:alternateName" refines="#author">Raphael Aloysius Lafferty</meta>
+		<link href="https://en.wikipedia.org/wiki/R._A._Lafferty" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79145563.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Marc Chagall</dc:contributor>
 		<meta property="file-as" refines="#artist">Chagall, Marc</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Marc_Chagall</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043105</meta>
+		<link href="https://en.wikipedia.org/wiki/Marc_Chagall" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79043105.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Robert Cicconetti</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Cicconetti, Robert</meta>
@@ -143,7 +146,7 @@
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-6">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-6">https://www.pgdp.net/</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-6" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
@@ -155,7 +158,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<link href="https://alexcabal.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
