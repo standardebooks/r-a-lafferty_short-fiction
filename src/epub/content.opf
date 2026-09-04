@@ -31,22 +31,22 @@
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Time -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Time--Fiction</dc:subject>
 		<dc:subject id="subject-3">Short stories</dc:subject>
-		<dc:subject id="subject-4">Infertility -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Infertility--Fiction</dc:subject>
 		<dc:subject id="subject-5">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-6">Police -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Human-alien encounters -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Etiquette -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Life on other planets -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Outer space -- Exploration -- Fiction</dc:subject>
-		<dc:subject id="subject-11">Florida -- Fiction</dc:subject>
-		<dc:subject id="subject-12">Brothers and sisters -- Fiction</dc:subject>
-		<dc:subject id="subject-13">Children -- Fiction</dc:subject>
-		<dc:subject id="subject-14">Inventions -- Fiction</dc:subject>
-		<dc:subject id="subject-15">Dreams -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Police--Fiction</dc:subject>
+		<dc:subject id="subject-7">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-8">Etiquette--Fiction</dc:subject>
+		<dc:subject id="subject-9">Life on other planets--Fiction</dc:subject>
+		<dc:subject id="subject-10">Outer space--Exploration--Fiction</dc:subject>
+		<dc:subject id="subject-11">Florida--Fiction</dc:subject>
+		<dc:subject id="subject-12">Brothers and sisters--Fiction</dc:subject>
+		<dc:subject id="subject-13">Children--Fiction</dc:subject>
+		<dc:subject id="subject-14">Inventions--Fiction</dc:subject>
+		<dc:subject id="subject-15">Dreams--Fiction</dc:subject>
 		<dc:subject id="subject-16">Fantasy fiction</dc:subject>
-		<dc:subject id="subject-17">Demographic surveys -- Fiction</dc:subject>
+		<dc:subject id="subject-17">Demographic surveys--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
